@@ -53,7 +53,6 @@
         font-family: arial,sans-serif;
         font-size: 15px;
         font-weight: bold;
-        color: rgb(68,68,68);
         text-decoration: none;
         user-select: none;
         padding: .2em 1.2em;
@@ -70,7 +69,6 @@
         box-shadow: 0 1px 2px rgba(0,0,0,.1);
     }
     button:active {
-        color: rgb(51,51,51);
         border: 1px solid rgb(204,204,204);
         background: rgb(238,238,238) linear-gradient(rgb(238,238,238), rgb(224,224,224));
         box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
